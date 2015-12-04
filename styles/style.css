@@ -1,0 +1,7 @@
+body {text-align: center;}
+#first {color: red;
+}
+
+.current {
+	border: 1px solid black
+}
